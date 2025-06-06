@@ -24,6 +24,6 @@ Click the button below to open the Pixel Silhouette tool on GitHub Pages:
 
 <div align="center">
   <a href="https://HelloWorld096.github.io/pixel-silhouette/">
-    <img src="https://img.shields.io/badge/||_‎ _‎ _‎ _ _ _‎ _ _ _‎‎ _OPEN_PIXEL_SILHOUETTE_‎ _‎ _‎ _‎‎ _  _ _‎‎ _||-3399ff?style=for-the-badge">
+    <img src="https://img.shields.io/badge/||_‎ _‎ _‎ _ _ _‎ _ _ _‎‎ _OPEN_PIXEL_SILHOUETTE_‎ _‎ _‎ _‎‎ _  _ _‎‎ _||-0969DA?style=for-the-badge">
   </a>
 </div>
